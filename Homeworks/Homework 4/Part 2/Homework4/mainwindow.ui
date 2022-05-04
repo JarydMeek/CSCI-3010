@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>510</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QGraphicsView" name="mainView">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>50</y>
+      <width>491</width>
+      <height>401</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="turnLabel">
+    <property name="geometry">
+     <rect>
+      <x>680</x>
+      <y>60</y>
+      <width>91</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <property name="text">
+     <string>Current Turn:</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="startGameButton">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>10</y>
+      <width>111</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Start Game</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="newGameButton">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>10</y>
+      <width>111</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>New Game</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="endGameButton">
+    <property name="geometry">
+     <rect>
+      <x>539</x>
+      <y>10</y>
+      <width>111</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>End Game</string>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="homeView">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>370</y>
+      <width>81</width>
+      <height>81</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="quitGameButton">
+    <property name="geometry">
+     <rect>
+      <x>670</x>
+      <y>210</y>
+      <width>111</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Quit</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="reRollButton">
+    <property name="geometry">
+     <rect>
+      <x>670</x>
+      <y>290</y>
+      <width>111</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Re-Roll</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="RollButton">
+    <property name="geometry">
+     <rect>
+      <x>670</x>
+      <y>330</y>
+      <width>111</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Roll</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="moveButton">
+    <property name="geometry">
+     <rect>
+      <x>670</x>
+      <y>410</y>
+      <width>111</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Move</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="timeLabel">
+    <property name="geometry">
+     <rect>
+      <x>670</x>
+      <y>150</y>
+      <width>111</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <property name="text">
+     <string>Time Remaining:</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLabel" name="rollChange">
+    <property name="geometry">
+     <rect>
+      <x>670</x>
+      <y>360</y>
+      <width>111</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="scaledContents">
+     <bool>false</bool>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLabel" name="timeChange">
+    <property name="geometry">
+     <rect>
+      <x>670</x>
+      <y>180</y>
+      <width>111</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="layoutDirection">
+     <enum>Qt::LeftToRight</enum>
+    </property>
+    <property name="text">
+     <string>10s</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="currentTurnView">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>90</y>
+      <width>51</width>
+      <height>41</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="undoButton">
+    <property name="geometry">
+     <rect>
+      <x>670</x>
+      <y>250</y>
+      <width>111</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Undo</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="showLeaderboard">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>60</y>
+      <width>131</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Show Leaderboard</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

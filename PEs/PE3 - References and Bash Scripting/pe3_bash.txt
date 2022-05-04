@@ -1,0 +1,87 @@
+1. Create the directory structure shown in the image in 4 or less commands.
+
+    mkdir -p root/John/Archive/Sem1/Course1 root/John/Archive/Sem1/Course2 root/John/Archive/Sem1/Course3 root/John/Archive/Sem1/Course4 root/John/Sem2/Course1 root/John/Sem2/Course2 root/John/Sem2/Course3 root/Alice/Sem2/Course1 root/Alice/Sem2/Course2 root/Alice/Sem2/Course3  root/Alice/Sem2/Course4
+
+2. Show your terminal's working directory (current location).
+
+    pwd
+
+3. Let's assume the output of the above command is /root. Create an empty file called readme.txt from the command line in the John -> Sem2 -> Course1 folder in a single command.
+
+    touch John/Sem2/Course1/readme.txt
+
+4. Navigate to the folder in which you created the readme.md file in the previous step. Using the ls command, list all files beginning with readme in your current directory.
+
+    cd John/Sem2/Course1/ && ls -d readme*
+
+5. Using the ls command, the wc command, and the | operator, count the number of files ending in .txt in your current directory?
+
+    ls *.txt | wc -l
+
+6. Using the echo command and > or >>, write a description for the course in the readme.txt file. Explain how is > different from >>.
+
+    echo "Improving coding skills through projects in C++." >> readme.txt
+
+    >> appends to file
+    > Replaces what is in the file currently
+
+7. Rename that file to readme.md.
+
+    mv readme.txt readme.md
+
+8. Create an empty directory named Assignment1 in the current folder. Copy this directory into Alice -> Sem2 -> Course1 folder without moving from your current directory.
+
+    mkdir Assignment1 && cp -r Assignment1 /root/Alice/Sem2/Course1/
+
+9. Move your terminal's working directory to Assignment1.
+
+    cd /root/Alice/Sem2/Course1/Assignment1/
+
+10. From the Assignment1 directory, create a new directory, Assignment2 that has the same parent directory as Assignment1.
+
+    mkdir ../Assignment2
+
+11. Move from Assignment1 to Assignment2 (use only one command).
+
+    cd ../Assignment2
+
+
+
+
+1. What does pressing the up arrow key do?
+
+    load previous command
+
+2. What does pressing the down arrow key do?
+
+    load next command
+
+3. What does pressing ctrl+r do?
+
+    lets you search your history
+
+4. What are two different command-line based text editors (text editors that run from the command line and do not open a separate application)? (Answer the following questions for each editor that you have chosen.)
+
+    vim, nano
+
+    1. What command do you use to open a file with this editor?
+
+    vim filename.txt
+    nano filename.txt
+
+    2. What command do you use to save a file while using this editor?
+
+    vim: escape -> :w -> enter
+    nano: control+o -> enter
+
+    3. What command do you use to exit this editor?
+    
+    vim: escape -> :q -> enter
+    nano: control+x -> enter
+
+
+5. What are two reasons you might want to use the text editors listed above?
+
+    a. You are in a command line only environment, such as ssh
+
+    b. Available on almost any machine.

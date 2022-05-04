@@ -1,0 +1,1026 @@
+This file shows example of all major functionality
+
+Please Make A Selection:
+1: Register or Login as Seller
+2: Register or Login as Buyer
+0: Exit
+1
+
+
+Please Enter Your Username:
+TestSeller
+Please Enter Your Phone Number:
+1234567890
+Please Enter Your Address:
+123 Seller Street
+Please enter 1 if you would like to ship your product (flat $5 fee for buyer),
+or enter 2 if you would like your buyer to pick it up:
+1
+Please Make A Selection:
+1: Post New Product For Sale
+2: View or Send Messages
+3: View User Information, Balance, and Rating
+4: Rate Buyer
+5: Update User Information
+6: View Product Status
+7: Open/Close Bidding
+0: Log Out
+1
+
+
+What kind of Product Would You Like To Sell?
+1: Paperback Book
+2: Hardcover Book
+3: Digital Book
+4: Vinyl
+5: CD
+6: MP3
+7: TV
+8: Computer
+9: Phone
+10: Painting
+11: Photo
+12: Sculpture
+13: Shirt
+14: Pants
+15: Shoes
+9
+Please Enter A Name For The Item:
+iPhone SE
+Please Enter A Condition For The Item:
+new
+Please Enter A Price For The Item:
+150
+Please Make A Selection:
+1: Post New Product For Sale
+2: View or Send Messages
+3: View User Information, Balance, and Rating
+4: Rate Buyer
+5: Update User Information
+6: View Product Status
+7: Open/Close Bidding
+0: Log Out
+7
+
+
+Product 1
+---------------------------
+iPhone SE
+Quality: new
+Base Price: 150
+Highest Bid: 150
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Which product would you like to modify? (enter number)
+1
+Your iPhone SE has been opened for bids.
+Please Make A Selection:
+1: Post New Product For Sale
+2: View or Send Messages
+3: View User Information, Balance, and Rating
+4: Rate Buyer
+5: Update User Information
+6: View Product Status
+7: Open/Close Bidding
+0: Log Out
+2
+
+
+What would you like to do?
+1: View New Messages
+2: View All (historical) Messages
+3: Send New Message
+0: Return To Main Menu
+1
+No New Messages
+
+What would you like to do?
+1: View New Messages
+2: View All (historical) Messages
+3: Send New Message
+0: Return To Main Menu
+0
+Please Make A Selection:
+1: Post New Product For Sale
+2: View or Send Messages
+3: View User Information, Balance, and Rating
+4: Rate Buyer
+5: Update User Information
+6: View Product Status
+7: Open/Close Bidding
+0: Log Out
+0
+
+
+Please Make A Selection:
+1: Register or Login as Seller
+2: Register or Login as Buyer
+0: Exit
+2
+
+
+Please Enter Your Username:
+TestBuyer
+Please Enter Your Phone Number:
+1234567890
+Please Enter Your Address:
+420 Buyer Drive 
+Please Make A Selection:
+1: View Products For Sale
+2: Place Bid On Product
+3: View or Send Messages
+4: View User Information, Balance, and Rating
+5: Rate Seller
+6: Update User Information
+7: View Placed Bids
+8: View Order History
+0: Log Out
+1
+
+
+Products For Sale:
+---------------------------
+Product 1
+---------------------------
+Nike shoes
+Quality: New
+Base Price: 420.69
+Highest Bid: 420.69
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 2
+---------------------------
+Nike t-shirt
+Quality: Used
+Base Price: 12.99
+Highest Bid: 12.99
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 3
+---------------------------
+Apple iPhone 13
+Quality: New
+Base Price: 1200
+Highest Bid: 1200
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 4
+---------------------------
+Apple Macbook
+Quality: Mint
+Base Price: 2159.99
+Highest Bid: 2159.99
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 5
+---------------------------
+Samsung TV
+Quality: New
+Base Price: 500
+Highest Bid: 500
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 6
+---------------------------
+Samsung Galaxy Phone
+Quality: New
+Base Price: 1
+Highest Bid: 1
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 7
+---------------------------
+Harry Potter and The Sorcerer's Stone
+Quality: Used
+Base Price: 8.92
+Highest Bid: 8.92
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 8
+---------------------------
+After Hours by The Weeknd
+Quality: Used
+Base Price: 49.23
+Highest Bid: 49.23
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 9
+---------------------------
+Romeo and Juliet by Shakespear
+Quality: Used
+Base Price: 19.23
+Highest Bid: 19.23
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 10
+---------------------------
+iPhone SE
+Quality: new
+Base Price: 150
+Highest Bid: 150
+Sold: Not yet
+Bid open: Yes
+---------------------------
+Please Make A Selection:
+1: View Products For Sale
+2: Place Bid On Product
+3: View or Send Messages
+4: View User Information, Balance, and Rating
+5: Rate Seller
+6: Update User Information
+7: View Placed Bids
+8: View Order History
+0: Log Out
+3
+
+
+What would you like to do?
+1: View New Messages
+2: View All (historical) Messages
+3: Send New Message
+0: Return To Main Menu
+3
+Enter Recipient's Username
+TestSeller
+Recipient Not Found, Or You Cannot Message This User
+What would you like to do?
+1: View New Messages
+2: View All (historical) Messages
+3: Send New Message
+0: Return To Main Menu
+0
+Please Make A Selection:
+1: View Products For Sale
+2: Place Bid On Product
+3: View or Send Messages
+4: View User Information, Balance, and Rating
+5: Rate Seller
+6: Update User Information
+7: View Placed Bids
+8: View Order History
+0: Log Out
+2
+
+
+Products For Sale:
+---------------------------
+Product 1
+---------------------------
+Nike shoes
+Quality: New
+Base Price: 420.69
+Highest Bid: 420.69
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 2
+---------------------------
+Nike t-shirt
+Quality: Used
+Base Price: 12.99
+Highest Bid: 12.99
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 3
+---------------------------
+Apple iPhone 13
+Quality: New
+Base Price: 1200
+Highest Bid: 1200
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 4
+---------------------------
+Apple Macbook
+Quality: Mint
+Base Price: 2159.99
+Highest Bid: 2159.99
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 5
+---------------------------
+Samsung TV
+Quality: New
+Base Price: 500
+Highest Bid: 500
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 6
+---------------------------
+Samsung Galaxy Phone
+Quality: New
+Base Price: 1
+Highest Bid: 1
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 7
+---------------------------
+Harry Potter and The Sorcerer's Stone
+Quality: Used
+Base Price: 8.92
+Highest Bid: 8.92
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 8
+---------------------------
+After Hours by The Weeknd
+Quality: Used
+Base Price: 49.23
+Highest Bid: 49.23
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 9
+---------------------------
+Romeo and Juliet by Shakespear
+Quality: Used
+Base Price: 19.23
+Highest Bid: 19.23
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 10
+---------------------------
+iPhone SE
+Quality: new
+Base Price: 150
+Highest Bid: 150
+Sold: Not yet
+Bid open: Yes
+---------------------------
+
+
+Which product would you like to bid on? (enter product number)
+10
+Placing Bid on: iPhone SE
+The current high bid is: $150
+
+How much would you like to bid?
+150
+Bid Not High Enough.
+How much would you like to bid?
+175
+Bid Placed!
+Please Make A Selection:
+1: View Products For Sale
+2: Place Bid On Product
+3: View or Send Messages
+4: View User Information, Balance, and Rating
+5: Rate Seller
+6: Update User Information
+7: View Placed Bids
+8: View Order History
+0: Log Out
+7
+
+
+You bid $175 for iPhone SE
+Please Make A Selection:
+1: View Products For Sale
+2: Place Bid On Product
+3: View or Send Messages
+4: View User Information, Balance, and Rating
+5: Rate Seller
+6: Update User Information
+7: View Placed Bids
+8: View Order History
+0: Log Out
+8
+
+
+Please Make A Selection:
+1: View Products For Sale
+2: Place Bid On Product
+3: View or Send Messages
+4: View User Information, Balance, and Rating
+5: Rate Seller
+6: Update User Information
+7: View Placed Bids
+8: View Order History
+0: Log Out
+0
+
+
+Please Make A Selection:
+1: Register or Login as Seller
+2: Register or Login as Buyer
+0: Exit
+1
+
+
+Please Enter Your Username:
+TestSeller
+Please Make A Selection:
+1: Post New Product For Sale
+2: View or Send Messages
+3: View User Information, Balance, and Rating
+4: Rate Buyer
+5: Update User Information
+6: View Product Status
+7: Open/Close Bidding
+0: Log Out
+7
+
+
+Product 1
+---------------------------
+iPhone SE
+Quality: new
+Base Price: 150
+Highest Bid: 175
+Sold: Not yet
+Bid open: Yes
+---------------------------
+Which product would you like to modify? (enter number)
+1
+Modifying this item will end it's bidding.
+If there are bids, the item will be sold to the highest bidder. Otherwise bids will be closed.
+If you would like to continue, type 'Y' otherwise type 'N'
+Y
+TestBuyer won iPhone SE for $175
+Please send product to: 
+TestBuyer at 420 Buyer Drive
+Please Make A Selection:
+1: Post New Product For Sale
+2: View or Send Messages
+3: View User Information, Balance, and Rating
+4: Rate Buyer
+5: Update User Information
+6: View Product Status
+7: Open/Close Bidding
+0: Log Out
+3
+
+
+---------------------------
+User Information (TestSeller)
+Phone Number: 1234567890
+Address: 123 Seller Street
+Balance: 2180
+Rating: Not yet rated
+---------------------------
+Please Make A Selection:
+1: Post New Product For Sale
+2: View or Send Messages
+3: View User Information, Balance, and Rating
+4: Rate Buyer
+5: Update User Information
+6: View Product Status
+7: Open/Close Bidding
+0: Log Out
+2
+
+
+What would you like to do?
+1: View New Messages
+2: View All (historical) Messages
+3: Send New Message
+0: Return To Main Menu
+1
+Message 1: TestBuyer: You have won the bid on iPhone SE!!
+
+What would you like to do?
+1: View New Messages
+2: View All (historical) Messages
+3: Send New Message
+0: Return To Main Menu
+3
+Enter Recipient's Username
+TestBuyer
+Enter Message To Send
+Hello! Thanks For Buying My iPhone!
+Message Sent!
+What would you like to do?
+1: View New Messages
+2: View All (historical) Messages
+3: Send New Message
+0: Return To Main Menu
+0
+Please Make A Selection:
+1: Post New Product For Sale
+2: View or Send Messages
+3: View User Information, Balance, and Rating
+4: Rate Buyer
+5: Update User Information
+6: View Product Status
+7: Open/Close Bidding
+0: Log Out
+4
+
+
+Enter Buyer's Username
+TestBuyer
+Enter Rating (1-10)
+10
+Rating Added!
+Please Make A Selection:
+1: Post New Product For Sale
+2: View or Send Messages
+3: View User Information, Balance, and Rating
+4: Rate Buyer
+5: Update User Information
+6: View Product Status
+7: Open/Close Bidding
+0: Log Out
+5
+
+
+Please Enter A New Username:
+TestSeller2
+Please Enter A New Phone Number:
+1234567890
+Please Enter A New Address:
+1234 Sold Street
+Please Make A Selection:
+1: Post New Product For Sale
+2: View or Send Messages
+3: View User Information, Balance, and Rating
+4: Rate Buyer
+5: Update User Information
+6: View Product Status
+7: Open/Close Bidding
+0: Log Out
+6
+
+
+Product 1
+---------------------------
+iPhone SE
+Quality: new
+Base Price: 150
+Highest Bid: 175
+Sold: Yes
+Bid open: Not yet
+---------------------------
+Please Make A Selection:
+1: Post New Product For Sale
+2: View or Send Messages
+3: View User Information, Balance, and Rating
+4: Rate Buyer
+5: Update User Information
+6: View Product Status
+7: Open/Close Bidding
+0: Log Out
+0
+
+
+Please Make A Selection:
+1: Register or Login as Seller
+2: Register or Login as Buyer
+0: Exit
+2
+
+
+Please Enter Your Username:
+TestBuyer
+Please Make A Selection:
+1: View Products For Sale
+2: Place Bid On Product
+3: View or Send Messages
+4: View User Information, Balance, and Rating
+5: Rate Seller
+6: Update User Information
+7: View Placed Bids
+8: View Order History
+0: Log Out
+3
+
+
+What would you like to do?
+1: View New Messages
+2: View All (historical) Messages
+3: Send New Message
+0: Return To Main Menu
+1
+Message 1: TestSeller2: Hello! Thanks For Buying My iPhone!
+
+What would you like to do?
+1: View New Messages
+2: View All (historical) Messages
+3: Send New Message
+0: Return To Main Menu
+0
+Please Make A Selection:
+1: View Products For Sale
+2: Place Bid On Product
+3: View or Send Messages
+4: View User Information, Balance, and Rating
+5: Rate Seller
+6: Update User Information
+7: View Placed Bids
+8: View Order History
+0: Log Out
+4
+
+
+---------------------------
+User Information (TestBuyer)
+Phone Number: 1234567890
+Address: 420 Buyer Drive
+Balance: 1820
+Rating: 10
+---------------------------
+Please Make A Selection:
+1: View Products For Sale
+2: Place Bid On Product
+3: View or Send Messages
+4: View User Information, Balance, and Rating
+5: Rate Seller
+6: Update User Information
+7: View Placed Bids
+8: View Order History
+0: Log Out
+5
+
+
+Enter Seller's Username
+TestSeller2
+Enter Rating (1-10)
+10
+Rating Added!
+Please Make A Selection:
+1: View Products For Sale
+2: Place Bid On Product
+3: View or Send Messages
+4: View User Information, Balance, and Rating
+5: Rate Seller
+6: Update User Information
+7: View Placed Bids
+8: View Order History
+0: Log Out
+8
+
+
+You bought iPhone SE for $175
+Please Make A Selection:
+1: View Products For Sale
+2: Place Bid On Product
+3: View or Send Messages
+4: View User Information, Balance, and Rating
+5: Rate Seller
+6: Update User Information
+7: View Placed Bids
+8: View Order History
+0: Log Out
+0
+
+
+Please Make A Selection:
+1: Register or Login as Seller
+2: Register or Login as Buyer
+0: Exit
+1
+
+
+Please Enter Your Username:
+TestSeller10
+Please Enter Your Phone Number:
+1234567890
+Please Enter Your Address:
+123 Thisisanotherseller street
+Please enter 1 if you would like to ship your product (flat $5 fee for buyer),
+or enter 2 if you would like your buyer to pick it up:
+2
+Please Make A Selection:
+1: Post New Product For Sale
+2: View or Send Messages
+3: View User Information, Balance, and Rating
+4: Rate Buyer
+5: Update User Information
+6: View Product Status
+7: Open/Close Bidding
+0: Log Out
+1
+
+
+What kind of Product Would You Like To Sell?
+1: Paperback Book
+2: Hardcover Book
+3: Digital Book
+4: Vinyl
+5: CD
+6: MP3
+7: TV
+8: Computer
+9: Phone
+10: Painting
+11: Photo
+12: Sculpture
+13: Shirt
+14: Pants
+15: Shoes
+15
+Please Enter A Name For The Item:
+Yeezy's
+Please Enter A Condition For The Item:
+new
+Please Enter A Price For The Item:
+10
+Please Make A Selection:
+1: Post New Product For Sale
+2: View or Send Messages
+3: View User Information, Balance, and Rating
+4: Rate Buyer
+5: Update User Information
+6: View Product Status
+7: Open/Close Bidding
+0: Log Out
+7
+
+
+Product 1
+---------------------------
+Yeezy's
+Quality: new
+Base Price: 10
+Highest Bid: 10
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Which product would you like to modify? (enter number)
+1
+Your Yeezy's has been opened for bids.
+Please Make A Selection:
+1: Post New Product For Sale
+2: View or Send Messages
+3: View User Information, Balance, and Rating
+4: Rate Buyer
+5: Update User Information
+6: View Product Status
+7: Open/Close Bidding
+0: Log Out
+0
+
+
+Please Make A Selection:
+1: Register or Login as Seller
+2: Register or Login as Buyer
+0: Exit
+2
+
+
+Please Enter Your Username:
+TestBuyer
+Please Make A Selection:
+1: View Products For Sale
+2: Place Bid On Product
+3: View or Send Messages
+4: View User Information, Balance, and Rating
+5: Rate Seller
+6: Update User Information
+7: View Placed Bids
+8: View Order History
+0: Log Out
+2
+
+
+Products For Sale:
+---------------------------
+Product 1
+---------------------------
+Nike shoes
+Quality: New
+Base Price: 420.69
+Highest Bid: 420.69
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 2
+---------------------------
+Nike t-shirt
+Quality: Used
+Base Price: 12.99
+Highest Bid: 12.99
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 3
+---------------------------
+Apple iPhone 13
+Quality: New
+Base Price: 1200
+Highest Bid: 1200
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 4
+---------------------------
+Apple Macbook
+Quality: Mint
+Base Price: 2159.99
+Highest Bid: 2159.99
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 5
+---------------------------
+Samsung TV
+Quality: New
+Base Price: 500
+Highest Bid: 500
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 6
+---------------------------
+Samsung Galaxy Phone
+Quality: New
+Base Price: 1
+Highest Bid: 1
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 7
+---------------------------
+Harry Potter and The Sorcerer's Stone
+Quality: Used
+Base Price: 8.92
+Highest Bid: 8.92
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 8
+---------------------------
+After Hours by The Weeknd
+Quality: Used
+Base Price: 49.23
+Highest Bid: 49.23
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 9
+---------------------------
+Romeo and Juliet by Shakespear
+Quality: Used
+Base Price: 19.23
+Highest Bid: 19.23
+Sold: Not yet
+Bid open: Not yet
+---------------------------
+Product 10
+---------------------------
+Yeezy's
+Quality: new
+Base Price: 10
+Highest Bid: 10
+Sold: Not yet
+Bid open: Yes
+---------------------------
+
+
+Which product would you like to bid on? (enter product number)
+10
+Placing Bid on: Yeezy's
+The current high bid is: $10
+
+How much would you like to bid?
+15
+Bid Placed!
+Please Make A Selection:
+1: View Products For Sale
+2: Place Bid On Product
+3: View or Send Messages
+4: View User Information, Balance, and Rating
+5: Rate Seller
+6: Update User Information
+7: View Placed Bids
+8: View Order History
+0: Log Out
+0
+
+
+Please Make A Selection:
+1: Register or Login as Seller
+2: Register or Login as Buyer
+0: Exit
+1
+
+
+Please Enter Your Username:
+TestSeller10
+Please Make A Selection:
+1: Post New Product For Sale
+2: View or Send Messages
+3: View User Information, Balance, and Rating
+4: Rate Buyer
+5: Update User Information
+6: View Product Status
+7: Open/Close Bidding
+0: Log Out
+7
+
+
+Product 1
+---------------------------
+Yeezy's
+Quality: new
+Base Price: 10
+Highest Bid: 15
+Sold: Not yet
+Bid open: Yes
+---------------------------
+Which product would you like to modify? (enter number)
+1
+Modifying this item will end it's bidding.
+If there are bids, the item will be sold to the highest bidder. Otherwise bids will be closed.
+If you would like to continue, type 'Y' otherwise type 'N'
+Y
+TestBuyer won Yeezy's for $15
+Please Make A Selection:
+1: Post New Product For Sale
+2: View or Send Messages
+3: View User Information, Balance, and Rating
+4: Rate Buyer
+5: Update User Information
+6: View Product Status
+7: Open/Close Bidding
+0: Log Out
+0
+
+
+Please Make A Selection:
+1: Register or Login as Seller
+2: Register or Login as Buyer
+0: Exit
+2
+
+
+Please Enter Your Username:
+TestBuyer
+Please Make A Selection:
+1: View Products For Sale
+2: Place Bid On Product
+3: View or Send Messages
+4: View User Information, Balance, and Rating
+5: Rate Seller
+6: Update User Information
+7: View Placed Bids
+8: View Order History
+0: Log Out
+3
+
+
+What would you like to do?
+1: View New Messages
+2: View All (historical) Messages
+3: Send New Message
+0: Return To Main Menu
+1
+Message 1: TestBuyer: You have won the bid on Yeezy's!!
+
+What would you like to do?
+1: View New Messages
+2: View All (historical) Messages
+3: Send New Message
+0: Return To Main Menu
+0
+Please Make A Selection:
+1: View Products For Sale
+2: Place Bid On Product
+3: View or Send Messages
+4: View User Information, Balance, and Rating
+5: Rate Seller
+6: Update User Information
+7: View Placed Bids
+8: View Order History
+0: Log Out
+8
+
+
+You bought iPhone SE for $175
+You bought Yeezy's for $15 and need to go to '123 Thisisanotherseller street' to pick it up from the seller
+Please Make A Selection:
+1: View Products For Sale
+2: Place Bid On Product
+3: View or Send Messages
+4: View User Information, Balance, and Rating
+5: Rate Seller
+6: Update User Information
+7: View Placed Bids
+8: View Order History
+0: Log Out
+0
+
+
+Please Make A Selection:
+1: Register or Login as Seller
+2: Register or Login as Buyer
+0: Exit
+0
+
